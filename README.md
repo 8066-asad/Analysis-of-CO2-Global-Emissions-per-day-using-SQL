@@ -160,16 +160,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Your data source]
+- Dataset source: https://github.com/8066-asad/Analysis-of-CO2-Global-Emissions-per-day-using-SQL/blob/main/carbon-monitor-GLOBAL-maingraphdatas.xlsx
 - Inspired by climate data analysis best practices
 - SQL techniques from Kaggle Learn courses
 
-## 📧 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/carbon-emissions-analysis](https://github.com/yourusername/carbon-emissions-analysis)
-
----
 
 ⭐ If you found this project helpful, please give it a star!
